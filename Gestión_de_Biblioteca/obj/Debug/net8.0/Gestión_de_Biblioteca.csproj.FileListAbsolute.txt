@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\bin\Debug\net8.0\Gestión_de_Biblioteca.exe
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\bin\Debug\net8.0\Gestión_de_Biblioteca.deps.json
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\bin\Debug\net8.0\Gestión_de_Biblioteca.runtimeconfig.json
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\bin\Debug\net8.0\Gestión_de_Biblioteca.dll
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\bin\Debug\net8.0\Gestión_de_Biblioteca.pdb
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.dll
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\refint\Gestión_de_Biblioteca.dll
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.pdb
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\Gestión_de_Biblioteca.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\Gestión_de_Biblioteca\obj\Debug\net8.0\ref\Gestión_de_Biblioteca.dll

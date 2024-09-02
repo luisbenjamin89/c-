@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "proyecto_gym/1.0.0": {
+        "runtime": {
+          "proyecto_gym.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proyecto_gym/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

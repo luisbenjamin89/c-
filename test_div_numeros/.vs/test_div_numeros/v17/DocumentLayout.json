@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F6736-E36D-4C79-AE1A-B81CDEC938D6}|..\\TestDividir\\TestDividir.csproj|c:\\users\\luisb\\documents\\c#\\testdividir\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE82E5B4-3B5A-49A5-879E-23D939C07F7E}|test_div_numeros.csproj|c:\\users\\luisb\\documents\\c#\\test_div_numeros\\es_par_impar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE82E5B4-3B5A-49A5-879E-23D939C07F7E}|test_div_numeros.csproj|solutionrelative:es_par_impar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F6736-E36D-4C79-AE1A-B81CDEC938D6}|..\\TestDividir\\TestDividir.csproj|c:\\users\\luisb\\documents\\c#\\testdividir\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE82E5B4-3B5A-49A5-879E-23D939C07F7E}|test_div_numeros.csproj|c:\\users\\luisb\\documents\\c#\\test_div_numeros\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE82E5B4-3B5A-49A5-879E-23D939C07F7E}|test_div_numeros.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE82E5B4-3B5A-49A5-879E-23D939C07F7E}|test_div_numeros.csproj|c:\\users\\luisb\\documents\\c#\\test_div_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE82E5B4-3B5A-49A5-879E-23D939C07F7E}|test_div_numeros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\TestDividir\\Test2.cs",
+              "RelativeDocumentMoniker": "..\\TestDividir\\Test2.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\TestDividir\\Test2.cs",
+              "RelativeToolTip": "..\\TestDividir\\Test2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:32:04.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Es_par_impar.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\Es_par_impar.cs",
+              "RelativeDocumentMoniker": "Es_par_impar.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\Es_par_impar.cs",
+              "RelativeToolTip": "Es_par_impar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:18:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\TestDividir\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestDividir\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\TestDividir\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestDividir\\UnitTest1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:51:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\Division.cs",
+              "RelativeDocumentMoniker": "Division.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\Division.cs",
+              "RelativeToolTip": "Division.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:48:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\test_div_numeros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:46:51.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

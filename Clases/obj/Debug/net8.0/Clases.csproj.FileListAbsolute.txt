@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\Clases\bin\Debug\net8.0\Clases.exe
+C:\Users\luisb\Documents\C#\Clases\bin\Debug\net8.0\Clases.deps.json
+C:\Users\luisb\Documents\C#\Clases\bin\Debug\net8.0\Clases.runtimeconfig.json
+C:\Users\luisb\Documents\C#\Clases\bin\Debug\net8.0\Clases.dll
+C:\Users\luisb\Documents\C#\Clases\bin\Debug\net8.0\Clases.pdb
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.dll
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\refint\Clases.dll
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.pdb
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\Clases.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\Clases\obj\Debug\net8.0\ref\Clases.dll

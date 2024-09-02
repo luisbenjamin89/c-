@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisb\\source\\repos\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C868A9AA-1B82-4847-9329-3EEB87DD7303}|..\\Fechas\\Fechas.csproj|c:\\users\\luisb\\source\\repos\\fechas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36229F9E-8AFA-4000-B594-07ECA4B4CF0E}|Arrays.csproj|c:\\users\\luisb\\source\\repos\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36229F9E-8AFA-4000-B594-07ECA4B4CF0E}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\source\\repos\\Fechas\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Fechas\\Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\source\\repos\\Fechas\\Program.cs",
+              "RelativeToolTip": "..\\Fechas\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:46:28.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\source\\repos\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\source\\repos\\Arrays\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAIwAkBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:04:55.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

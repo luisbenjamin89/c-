@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\test_div_numeros\bin\Debug\net8.0\test_div_numeros.exe
+C:\Users\luisb\Documents\C#\test_div_numeros\bin\Debug\net8.0\test_div_numeros.deps.json
+C:\Users\luisb\Documents\C#\test_div_numeros\bin\Debug\net8.0\test_div_numeros.runtimeconfig.json
+C:\Users\luisb\Documents\C#\test_div_numeros\bin\Debug\net8.0\test_div_numeros.dll
+C:\Users\luisb\Documents\C#\test_div_numeros\bin\Debug\net8.0\test_div_numeros.pdb
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.dll
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\refint\test_div_numeros.dll
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.pdb
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\test_div_numeros.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\test_div_numeros\obj\Debug\net8.0\ref\test_div_numeros.dll

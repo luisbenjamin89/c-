@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_interfaces\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|solutionrelative:coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_interfaces\\iseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|solutionrelative:iseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_interfaces\\iclimatizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|solutionrelative:iclimatizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_interfaces\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6886CD-451B-4A01-BF1D-34BD03BD2FBD}|Ejemplo_interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClimatizacion.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\IClimatizacion.cs",
+              "RelativeDocumentMoniker": "IClimatizacion.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\IClimatizacion.cs",
+              "RelativeToolTip": "IClimatizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:03:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\ISeguridad.cs",
+              "RelativeDocumentMoniker": "ISeguridad.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\ISeguridad.cs",
+              "RelativeToolTip": "ISeguridad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:03:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\Coche.cs",
+              "RelativeDocumentMoniker": "Coche.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\Coche.cs",
+              "RelativeToolTip": "Coche.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:57:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:56:43.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:53:26.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

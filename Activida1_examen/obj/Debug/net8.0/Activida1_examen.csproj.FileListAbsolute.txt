@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\Activida1_examen\bin\Debug\net8.0\Activida1_examen.exe
+C:\Users\luisb\Documents\C#\Activida1_examen\bin\Debug\net8.0\Activida1_examen.deps.json
+C:\Users\luisb\Documents\C#\Activida1_examen\bin\Debug\net8.0\Activida1_examen.runtimeconfig.json
+C:\Users\luisb\Documents\C#\Activida1_examen\bin\Debug\net8.0\Activida1_examen.dll
+C:\Users\luisb\Documents\C#\Activida1_examen\bin\Debug\net8.0\Activida1_examen.pdb
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.dll
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\refint\Activida1_examen.dll
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.pdb
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\Activida1_examen.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\Activida1_examen\obj\Debug\net8.0\ref\Activida1_examen.dll

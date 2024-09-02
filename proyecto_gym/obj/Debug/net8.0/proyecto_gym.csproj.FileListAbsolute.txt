@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\proyecto_gym\bin\Debug\net8.0\proyecto_gym.exe
+C:\Users\luisb\Documents\C#\proyecto_gym\bin\Debug\net8.0\proyecto_gym.deps.json
+C:\Users\luisb\Documents\C#\proyecto_gym\bin\Debug\net8.0\proyecto_gym.runtimeconfig.json
+C:\Users\luisb\Documents\C#\proyecto_gym\bin\Debug\net8.0\proyecto_gym.dll
+C:\Users\luisb\Documents\C#\proyecto_gym\bin\Debug\net8.0\proyecto_gym.pdb
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.dll
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\refint\proyecto_gym.dll
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.pdb
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\proyecto_gym.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\proyecto_gym\obj\Debug\net8.0\ref\proyecto_gym.dll

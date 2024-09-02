@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\bin\Debug\net8.0\Ejemplo_herencias.exe
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\bin\Debug\net8.0\Ejemplo_herencias.deps.json
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\bin\Debug\net8.0\Ejemplo_herencias.runtimeconfig.json
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\bin\Debug\net8.0\Ejemplo_herencias.dll
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\bin\Debug\net8.0\Ejemplo_herencias.pdb
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.dll
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\refint\Ejemplo_herencias.dll
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.pdb
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\Ejemplo_herencias.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\Ejemplo_herencias\obj\Debug\net8.0\ref\Ejemplo_herencias.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|c:\\users\\luisb\\documents\\c#\\gesti\u00F3n_de_biblioteca\\clases\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|solutionrelative:clases\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|c:\\users\\luisb\\documents\\c#\\gesti\u00F3n_de_biblioteca\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|solutionrelative:clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|c:\\users\\luisb\\documents\\c#\\gesti\u00F3n_de_biblioteca\\interfaces\\iseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|solutionrelative:interfaces\\iseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|c:\\users\\luisb\\documents\\c#\\gesti\u00F3n_de_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|c:\\users\\luisb\\documents\\c#\\gesti\u00F3n_de_biblioteca\\clases\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|solutionrelative:clases\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|c:\\users\\luisb\\documents\\c#\\gesti\u00F3n_de_biblioteca\\clases\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C225F66-9C97-4CC3-8ADC-132697A8EEF3}|Gesti\u00F3n_de_Biblioteca.csproj|solutionrelative:clases\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Interfaces\\ISeguridad.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISeguridad.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Interfaces\\ISeguridad.cs",
+              "RelativeToolTip": "Interfaces\\ISeguridad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:07:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\DVD.cs",
+              "RelativeDocumentMoniker": "Clases\\DVD.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\DVD.cs",
+              "RelativeToolTip": "Clases\\DVD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:01:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\Revista.cs",
+              "RelativeDocumentMoniker": "Clases\\Revista.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\Revista.cs",
+              "RelativeToolTip": "Clases\\Revista.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:53:11.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\Libro.cs",
+              "RelativeDocumentMoniker": "Clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\Libro.cs",
+              "RelativeToolTip": "Clases\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:40:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "Clases\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Clases\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "Clases\\MaterialBiblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:33:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Gesti\u00F3n_de_Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:32:31.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

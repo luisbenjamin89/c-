@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_herencias\\canguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|solutionrelative:canguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_herencias\\ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|solutionrelative:ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_herencias\\irobotica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|solutionrelative:irobotica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_herencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|c:\\users\\luisb\\documents\\c#\\ejemplo_herencias\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF79B8-B83D-4FAF-9019-AF174B3ECFD9}|Ejemplo_herencias.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRobotica.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\IRobotica.cs",
+              "RelativeDocumentMoniker": "IRobotica.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\IRobotica.cs",
+              "RelativeToolTip": "IRobotica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:43:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Canguro.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Canguro.cs",
+              "RelativeDocumentMoniker": "Canguro.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Canguro.cs",
+              "RelativeToolTip": "Canguro.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:47:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ballena.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Ballena.cs",
+              "RelativeDocumentMoniker": "Ballena.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Ballena.cs",
+              "RelativeToolTip": "Ballena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:40:15.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvyMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:36:31.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\Ejemplo_herencias\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:35:55.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

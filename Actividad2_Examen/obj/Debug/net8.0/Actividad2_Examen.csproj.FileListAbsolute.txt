@@ -1,0 +1,14 @@
+C:\Users\luisb\Documents\C#\Actividad2_Examen\bin\Debug\net8.0\Actividad2_Examen.exe
+C:\Users\luisb\Documents\C#\Actividad2_Examen\bin\Debug\net8.0\Actividad2_Examen.deps.json
+C:\Users\luisb\Documents\C#\Actividad2_Examen\bin\Debug\net8.0\Actividad2_Examen.runtimeconfig.json
+C:\Users\luisb\Documents\C#\Actividad2_Examen\bin\Debug\net8.0\Actividad2_Examen.dll
+C:\Users\luisb\Documents\C#\Actividad2_Examen\bin\Debug\net8.0\Actividad2_Examen.pdb
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.AssemblyInfoInputs.cache
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.AssemblyInfo.cs
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.dll
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\refint\Actividad2_Examen.dll
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.pdb
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\Actividad2_Examen.genruntimeconfig.cache
+C:\Users\luisb\Documents\C#\Actividad2_Examen\obj\Debug\net8.0\ref\Actividad2_Examen.dll

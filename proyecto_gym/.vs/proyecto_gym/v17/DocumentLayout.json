@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|c:\\users\\luisb\\documents\\c#\\proyecto_gym\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|c:\\users\\luisb\\documents\\c#\\proyecto_gym\\igestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|solutionrelative:igestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|c:\\users\\luisb\\documents\\c#\\proyecto_gym\\clases\\lista_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|solutionrelative:clases\\lista_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|c:\\users\\luisb\\documents\\c#\\proyecto_gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5E4DDE-4D92-44A7-B71B-66500493F251}|proyecto_gym.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:33:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGestion.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\IGestion.cs",
+              "RelativeDocumentMoniker": "IGestion.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\IGestion.cs",
+              "RelativeToolTip": "IGestion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:23:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\Clases\\Lista_cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Lista_cliente.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\Clases\\Lista_cliente.cs",
+              "RelativeToolTip": "Clases\\Lista_cliente.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:40:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisb\\Documents\\C#\\proyecto_gym\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwB4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:28:15.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
